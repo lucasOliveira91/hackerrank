@@ -9,10 +9,10 @@ public class CurrencyFormatter {
         double payment = scanner.nextDouble();
         scanner.close();
 
-        String us = NumberFormat.getCurrencyInstance(Locale.ENGLISH).format(payment);
+        String us = NumberFormat.getCurrencyInstance(new Locale("en", "US")).format(payment);
         String india = NumberFormat.getCurrencyInstance(new Locale("en", "IN")).format(payment);
-        String china = NumberFormat.getCurrencyInstance(Locale.CHINESE).format(payment);
-        String france = NumberFormat.getCurrencyInstance(Locale.FRANCE).format(payment);
+        String china = NumberFormat.getCurrencyInstance(new Locale("zh", "CN")).format(payment);
+        String france = NumberFormat.getCurrencyInstance(new Locale("fr", "FR")).format(payment);
 
         System.out.println("US: " + us);
         System.out.println("India: " + india);

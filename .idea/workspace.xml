@@ -2,8 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8704b2dd-b8e4-466c-a338-eb374c7f80b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/language/easy/StringTokens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrencyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/Anagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/CanYouAccess$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/CanYouAccess$Inner$Private.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/CanYouAccess$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/CanYouAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/ChallengeOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/CurrencyFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/DateAndTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/DoNotTerminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/DoNotTerminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/DoNotTerminatex$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/DoNotTerminatex$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/DoNotTerminatex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/EndOfFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/IntToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/JavaSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/LoopsII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/NewYearChaos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/OutputFormatting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/ReflectionAttributes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/StaticInitializerBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/StdinAndStoutII.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/StringIntroduction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/StringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hackrank/SubstringComparisons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/Anagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CanYouAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/CanYouAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChallengeOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/ChallengeOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CurrencyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/CurrencyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/DateAndTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EndOfFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/EndOfFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/IntToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/JavaSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopsII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/LoopsII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NewYearChaos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/NewYearChaos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OutputFormatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/OutputFormatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReflectionAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/ReflectionAttributes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StaticInitializerBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/StaticInitializerBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StdinAndStoutII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/StdinAndStoutII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringIntroduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/StringIntroduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringTokens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubstringComparisons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/language/easy/SubstringComparisons.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,48 +63,49 @@
     <session id="1369441491">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="36" />
+          <entry key="java" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="55" />
-          <entry key="java" value="4032" />
+          <entry key="java" value="4494" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4032" />
+          <entry key="JAVA" value="4494" />
           <entry key="PLAIN_TEXT" value="55" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StringTokens.java">
+        <entry file="file://$PROJECT_DIR$/src/language/easy/ValidUserNameRegularExpression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="116">
+              <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -74,6 +122,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>t</find>
+      <find>compareTriplets</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,6 +155,12 @@
         <option value="$PROJECT_DIR$/src/StringReverse.java" />
         <option value="$PROJECT_DIR$/src/Anagrams.java" />
         <option value="$PROJECT_DIR$/src/StringTokens.java" />
+        <option value="$PROJECT_DIR$/src/SimpleArraySum.java" />
+        <option value="$PROJECT_DIR$/src/problemsolvem/SimpleArraySum.java" />
+        <option value="$PROJECT_DIR$/src/problems/CompareTriplets.java" />
+        <option value="$PROJECT_DIR$/src/language/easy/medium/JavaRegex.java" />
+        <option value="$PROJECT_DIR$/src/language/medium/JavaRegex2.java" />
+        <option value="$PROJECT_DIR$/src/language/easy/ValidUserNameRegularExpression.java" />
       </list>
     </option>
   </component>
@@ -124,6 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,17 +193,33 @@
               <item name="hackrank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hackrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="language" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackrank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="language" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543261752968" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543499513881" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -160,56 +233,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Anagrams">
+  <component name="RunManager" selected="Application.JavaRegex2">
     <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anagrams" />
+      <option name="MAIN_CLASS_NAME" value="language.easy.Anagrams" />
       <module name="hackrank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSubstring" />
+    <configuration name="CompareTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.CompareTriplets" />
       <module name="hackrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringIntroduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringIntroduction" />
+    <configuration name="JavaRegex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="language.easy.medium.JavaRegex" />
       <module name="hackrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="language.easy.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringReverse" />
+    <configuration name="JavaRegex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="language.medium.JavaRegex2" />
       <module name="hackrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="language.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstringComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubstringComparisons" />
+    <configuration name="StringTokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="language.easy.StringTokens" />
       <module name="hackrank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringIntroduction" />
-      <item itemvalue="Application.JavaSubstring" />
-      <item itemvalue="Application.SubstringComparisons" />
-      <item itemvalue="Application.StringReverse" />
       <item itemvalue="Application.Anagrams" />
+      <item itemvalue="Application.StringTokens" />
+      <item itemvalue="Application.CompareTriplets" />
+      <item itemvalue="Application.JavaRegex" />
+      <item itemvalue="Application.JavaRegex2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaRegex2" />
+        <item itemvalue="Application.JavaRegex" />
+        <item itemvalue="Application.CompareTriplets" />
+        <item itemvalue="Application.StringTokens" />
         <item itemvalue="Application.Anagrams" />
-        <item itemvalue="Application.StringReverse" />
-        <item itemvalue="Application.SubstringComparisons" />
-        <item itemvalue="Application.JavaSubstring" />
-        <item itemvalue="Application.StringIntroduction" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +321,7 @@
     <frame x="1358" y="-8" width="1456" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2679083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27507162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -238,13 +329,13 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32978722" />
@@ -262,78 +353,90 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/language/easy/StringTokens.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>s.length() - 1</expression-string>
+        <expression-string>m.group(1)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>s.length()</expression-string>
+        <expression-string>m.group()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>num&amp;num-1)==0;</expression-string>
+        <expression-string>m.group(1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>num&amp;num-1)==0</expression-string>
+        <expression-string>input.replaceAll(m.group(), m.group().split(&quot; &quot;)[0]);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>num&amp;num</expression-string>
+        <expression-string>m.group().split(&quot; &quot;)[0]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Locale.getAvailableLocales()</expression-string>
+        <expression-string>m.group().split(&quot;&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>NumberFormat.getCurrencyInstance(Locale.ENGLISH).getCurrency().getDisplayName()</expression-string>
+        <expression-string>s.split(&quot;\\s*[a-zA-Z]+&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>NumberFormat.getCurrencyInstance(Locale.ENGLISH).getCurrency().getSymbol()</expression-string>
+        <expression-string>s.split(&quot;\\s*[a-zA-Z]+&quot;&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>NumberFormat.getCurrencyInstance(Locale.ENGLISH)</expression-string>
+        <expression-string>s.split(&quot;\\s*[a-zA-Z]+\&quot;&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LoopsII.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/LoopsII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OutputFormatting.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/OutputFormatting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StdinAndStoutII.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/StdinAndStoutII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NewYearChaos.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/NewYearChaos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
@@ -343,41 +446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EndOfFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StaticInitializerBlock.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/StaticInitializerBlock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DateAndTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -395,45 +467,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CurrencyFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CanYouAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="16" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1304#1573#0" expanded="true" />
-            <element signature="e#1572#1573#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/JavaSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChallengeOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReflectionAttributes.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/ReflectionAttributes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
@@ -445,7 +486,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubstringComparisons.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/SubstringComparisons.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -456,34 +497,161 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringIntroduction.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/StringIntroduction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringReverse.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/StringReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Anagrams.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="159">
+          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
+          <folding>
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language.java" />
+    <entry file="file://$PROJECT_DIR$/src/problems/SimpleArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringTokens.java">
+    <entry file="file://$PROJECT_DIR$/src/language/easy/StringTokens.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1434">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/CompareTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy.java" />
+    <entry file="file://$PROJECT_DIR$/src/language/easy/Anagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy/CanYouAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy/CurrencyFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy/DataTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy/DateAndTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy/EndOfFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy/IntToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy/ChallengeOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/medium/JavaRegex2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/medium/JavaRegex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/language/easy/ValidUserNameRegularExpression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
         </state>
       </provider>
     </entry>

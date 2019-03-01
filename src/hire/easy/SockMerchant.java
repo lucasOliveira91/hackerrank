@@ -2,8 +2,11 @@ package hire.easy;
 
 /**
  * Created by loliveira on 28/02/19.
+ *
+ *  Use set to verify if number exists
+ *  case exists so this number has its pair
+ *  removed from list to next verification
  */
-
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Set;

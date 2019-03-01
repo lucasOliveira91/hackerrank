@@ -1,0 +1,8 @@
+
+\squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8­˜Ñ¯“-
+[squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8†³Ğ¯“-
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8 œ¦²“-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘‡‚•øÿÿÿÿ8‹ùĞ¯“-
+]squid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8†³Ğ¯“-
+Ssquid:S1197"8Move the array designator from the variable to the type.(ˆó8ŞîÒ¯“-
